@@ -19,7 +19,7 @@ body {
 }
 .header {
   grid-area: header;
-  background-color: #203040;
+  background-color: #286bad;
   color: #ffffff;
   display: flex;
   justify-content: space-between;
