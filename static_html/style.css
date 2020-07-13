@@ -111,11 +111,13 @@ a:hover {
   cursor: pointer;
 }
 .sidebar {
-  position: fixed;
-  transform: translateX(-30rem);
   width: 30rem;
   background-color: #f0f0f0;
   height: 100%;
+}
+
+.sidebarColor {
+  background-color: #286bad;
 }
 .sidebar.open {
   transform: translateX(0);
